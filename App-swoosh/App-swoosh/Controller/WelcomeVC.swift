@@ -13,6 +13,8 @@ class WelcomeVC: UIViewController {
     @IBOutlet weak var swoosh: UIImageView!
     @IBOutlet weak var bgImage: UIImageView!
     
+    // Lesson 7 debugged if you delete the above IB outlets
+    
     
     
     
