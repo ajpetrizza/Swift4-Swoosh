@@ -15,10 +15,10 @@
         </array>
     </customFonts>
     <scenes>
-        <!--View Controller-->
+        <!--WelcomeVC-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="App_swoosh" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WelcomeVC" customModule="App_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -94,10 +94,10 @@
             </objects>
             <point key="canvasLocation" x="116" y="117.39130434782609"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="MTJ-SH-Pph">
             <objects>
-                <viewController id="fto-iU-kWF" sceneMemberID="viewController">
+                <viewController id="fto-iU-kWF" customClass="LeagueVC" customModule="App_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="FhM-2g-tyo">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -209,12 +209,12 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eAz-Vx-jSa" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="CpZ-pV-SH8" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="815" y="117"/>
+            <point key="canvasLocation" x="817" y="116"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="xm6-5a-qhU">
             <objects>
-                <viewController id="gBd-8N-1v2" sceneMemberID="viewController">
+                <viewController id="gBd-8N-1v2" customClass="SkillVC" customModule="App_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="dvm-pl-gMG">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
